@@ -12,13 +12,6 @@ practice project on AWS EC2 using Docker and Nginx.
 
 ## 📸 Screenshots
 
-### Jenkins Pipeline
-
-
-![Pipeline](pipeline.jpeg)
-
-
-
 ### Kubectl Deployment
 
 
