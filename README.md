@@ -10,10 +10,19 @@ practice project on AWS EC2 using Docker and Nginx.
 - Configured Nginx as reverse proxy
 - App accessible via public IP on port 8000
 
-## 📸 Screenshot
+## 📸 Screenshots
+
+### Jenkins Pipeline
 
 
-![Notes App](screenshot.jpeg)
+![Pipeline](pipeline.jpeg)
+
+
+
+### Kubectl Deployment
+
+
+![Kubectl](kubectl%20deployments.jpeg)
 
 
 
